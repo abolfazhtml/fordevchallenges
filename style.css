@@ -1,0 +1,71 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); */
+@font-face {
+    font-family: myinter;
+    src: url('font/Inter-VariableFont_opsz\,wght.ttf');
+}
+
+*{
+    font-family: myinter;
+}
+.root {
+    width: 640px;
+    margin: auto;
+}
+
+.inter-uniquifier {
+  font-family: "inter";
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h4{
+    display: inline-block;
+}
+
+.main-header{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 150px;
+}
+.main-header-content{
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.main-header-content-sub{
+    margin-top: 8;
+}
+ .body-st{
+    margin-bottom: 35px;
+    margin-left: 20px;
+ }
+ ol,ul{
+    margin-left: -15px;
+ }
+ li{
+    margin-bottom: 15px;
+ }
+ ol{
+    margin-bottom: 25px;
+ }
+ span{
+    color: #4E80EE;
+ }
+ .body-nd{
+    margin-left: 20px;
+    margin-bottom: 75px;
+ }
+ .body-head-g-content{
+    margin-bottom: 35px;
+ }
+ ul{
+    margin: 1px;
+    padding: 0;
+ }
+ .my-li{
+    /* margin-top: -20px;
+    margin-bottom: -20px;
+     */
+     /* display: inline-block; */
+     padding: 0;
+ }
